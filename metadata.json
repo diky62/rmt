@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Raid Multi Teknik Website Preview",
+  "description": "A sleek dark-theme landing page hero section for an engineering contractor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
